@@ -23,3 +23,9 @@
 - [ ] Colocação de uma grade de proteção para o compressor do ar condicionado da Sala B
 - [ ] Reforma da cadeiras com a troca do tecido, avaliação e conserto da estrutura
 - [ ] Sistema de alarme com sensor de presença
+
+Legenda:
+- :arrows_counterclockwise: em andamento
+- :heavy_check_mark: concluído
+- [ ] não iniciado
+
