@@ -11,9 +11,9 @@
 
 ### Necessidades 
 
-- :arrows_counterclockwise: **Sistema de câmeras com monitor**
-- :white_circle: **Fechadura eletrônica para o portão**
-- :white_circle: **Substituição do computador do Salão**
+- :arrows_counterclockwise: Sistema de câmeras com monitor
+- :white_circle: Fechadura eletrônica para o portão**
+- :white_circle: Substituição do computador do Salão
 - :white_circle: **Reforma de todo o sistema elétrico**
 - :white_circle: **Suporte para microfone gooseneck do orador**
 - :white_circle: **Sistema de Microfone sem fio com 2 unidades (microfones)**
