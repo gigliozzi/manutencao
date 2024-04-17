@@ -7,3 +7,8 @@
 - [x] Eduardo
 - [x] Jorge
 - [x] William
+
+
+### NECESSIDADES
+
+- [ ] Substituição dos aparelhos de ar condicionado
