@@ -1,7 +1,6 @@
 ## ATA da Comissão de Manutenção (Brás de Pina e Caraipé)
 
 > Brás de Pina, 30 de março de 2024.
-
 <br>
 
 #### Membros presentes:
