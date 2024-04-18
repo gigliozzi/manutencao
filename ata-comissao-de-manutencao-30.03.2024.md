@@ -25,19 +25,19 @@ Em relação à correção dos valores pagos a Águas do Rio informado pelo irm�
 #### Tarefas
 Foram listadas tarefas que necessitam ser realizadas em nosso Salão do Reino. Serão realizados os devidos orçamentos para que sejam programadas as execuções.
 
-substituição dos aparelhos de ar condicionado
-reforma de todo sistema elétrico
-troca de todo cabeamento do som
-colocação de película de segurança em janelas e portas
-grade de proteção para compressor do ar condicionado da sala b
-reforma das cadeiras com troca de tecido, avaliação e conserto de estruturas
-sistema de câmeras com monitor
-sistema de alarme com sensores de presença
-fechadura eletrônica para o portão
-substituição do computador do salão
-suporte para microfone goose neck para orador
-microfone sem fio com 2 microfones
+- [ ] Substituição dos aparelhos de ar condicionado
+- [ ] Reforma de todo sistema elétrico
+- [ ] Troca de todo cabeamento do som
+- [ ] Colocação de película de segurança em janelas e portas
+- [ ] Grade de proteção para compressor do ar condicionado da sala b
+- [ ] Reforma das cadeiras com troca de tecido, avaliação e conserto de estruturas
+- [ ] Sistema de câmeras com monitor
+- [ ] Sistema de alarme com sensores de presença
+- [ ] Fechadura eletrônica para o portão
+- [ ] Substituição do computador do salão
+- [ ] Suporte para microfone goose neck para orador
+- [ ] Microfone sem fio com 2 microfones
 
-![image](https://github.com/gigliozzi/manutencao/assets/7453555/c5f0871f-dbba-4959-a5f5-8408e8d964be)
+
 
 
