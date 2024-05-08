@@ -11,10 +11,10 @@
 
 ### Demandas 
 
-- :heavy_check_mark: Sistema de câmeras com monitor: **_Diógenes liderando o arranjo
+- :heavy_check_mark: Sistema de câmeras com monitor
+- ⏩ Reforma de todo o sistema elétrico: **_Diógenes liderando o arranjo :: fase de orçamento 💲 ::_**
+- ⚪ Substituição do computador do Salão
 - ⚪ Fechadura eletrônica para o portão 
-- ⚪ Substituição do computador do Salão **_Jorge liderando o arranjo :: fase de orçamento 💲 ::_**
-- ⚪ Reforma de todo o sistema elétrico: _Diógenes liderando o arranjo :: fase de orçamento ::_
 - ⚪ Suporte para microfone gooseneck do orador
 - ⚪ Sistema de Microfone sem fio com 2 unidades (microfones) 
 - ⚪ Substituição dos aparelhos de ar condicionado
@@ -25,7 +25,7 @@
 - ⚪ Sistema de alarme com sensor de presença
 
 Legenda:
-- 🔃 **em andamento**
+- ⏩ **em andamento**
 - :heavy_check_mark: **concluído**
 - :white_circle: **não iniciado**
 
