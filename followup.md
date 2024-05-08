@@ -11,7 +11,7 @@
 
 ### Demandas 
 
-- :heavy_check_mark: Sistema de câmeras com monitor
+- ✔️ Sistema de câmeras com monitor 
 - ⏩ Reforma de todo o sistema elétrico: **_Diógenes liderando o arranjo :: fase de orçamento 💲 ::_**
 - ⚪ Substituição do computador do Salão
 - ⚪ Fechadura eletrônica para o portão 
