@@ -11,7 +11,7 @@
 
 ### Demandas 
 
-- 🔃 Sistema de câmeras com monitor: **_Diógenes liderando o arranjo :: fase de conclusão 💪 ::_**
+- :heavy_check_mark: Sistema de câmeras com monitor: **_Diógenes liderando o arranjo
 - ⚪ Fechadura eletrônica para o portão 
 - ⚪ Substituição do computador do Salão **_Jorge liderando o arranjo :: fase de orçamento 💲 ::_**
 - ⚪ Reforma de todo o sistema elétrico: _Diógenes liderando o arranjo :: fase de orçamento ::_
