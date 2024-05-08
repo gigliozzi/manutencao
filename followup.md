@@ -13,6 +13,8 @@
 
 - ✅ Sistema de câmeras com monitor 
 - ⏩ Reforma de todo o sistema elétrico: **_Diógenes liderando o arranjo :: fase de orçamento 💲 ::_**
+  - Em 08/05 realizada uma avaliação profissional
+  - O LDC foi envolvido e informará os próximos passos
 - ⚪ Substituição do computador do Salão
 - ⚪ Fechadura eletrônica para o portão 
 - ⚪ Suporte para microfone gooseneck do orador
