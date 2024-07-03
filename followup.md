@@ -15,7 +15,8 @@
 - ⏩ Reforma de todo o sistema elétrico: **_Diógenes liderando o arranjo :: fase de orçamento 💲 ::_**
   - Em 08/05 realizada uma avaliação profissional
   - O LDC foi envolvido e informará os próximos passos
-- ⚪ Substituição do computador do Salão
+  - Segundo informações do rep. LDC, entramos na fila de espera para receber recursos de Betel para seguir com a demanda, visto que não dispomos de recursos suficientes 
+- ✅ Substituição do computador do Salão
 - ⚪ Fechadura eletrônica para o portão 
 - ⚪ Suporte para microfone gooseneck do orador
 - ⚪ Sistema de Microfone sem fio com 2 unidades (microfones) 
